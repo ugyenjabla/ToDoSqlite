@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do Sqlite</string>
+    <string name="title_activity_todo">TodoActivity</string>
+    <string name="task_name">task name</string>
+    <string name="task_description">task description</string>
+    <string name="completed">completed</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="delete_all">delete all</string>
+</resources>
